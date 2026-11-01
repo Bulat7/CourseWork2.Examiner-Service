@@ -42,4 +42,5 @@ public class JavaQuestionService implements QuestionService {
         int index = randomQuestion.nextInt(objects.length);
         return (Question) objects[index];
     }
+
 }

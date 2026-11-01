@@ -54,9 +54,5 @@ public class ExaminerServiceImplementationTest {
             examinerServiceImplementation.getQuestion(questions.size()+1);
         }
         );
-
-
     }
-
-
 }
